@@ -1,0 +1,30 @@
+c:\users\home\documents\visual studio 2015\Projects\USBCrypt\USBCrypt\bin\Debug\USBCrypt.exe.config
+c:\users\home\documents\visual studio 2015\Projects\USBCrypt\USBCrypt\bin\Debug\USBCrypt.exe
+c:\users\home\documents\visual studio 2015\Projects\USBCrypt\USBCrypt\bin\Debug\USBCrypt.pdb
+c:\users\home\documents\visual studio 2015\Projects\USBCrypt\USBCrypt\obj\Debug\USBCrypt.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2015\Projects\USBCrypt\USBCrypt\obj\Debug\USBCrypt.Properties.Resources.resources
+c:\users\home\documents\visual studio 2015\Projects\USBCrypt\USBCrypt\obj\Debug\USBCrypt.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2015\Projects\USBCrypt\USBCrypt\obj\Debug\USBCrypt.exe
+c:\users\home\documents\visual studio 2015\Projects\USBCrypt\USBCrypt\obj\Debug\USBCrypt.pdb
+c:\users\home\documents\visual studio 2015\Projects\USBCrypt\USBCrypt\obj\Debug\USBCrypt.Main.resources
+C:\Users\home\Desktop\USBCrypt\USBCrypt\bin\Debug\USBCrypt.exe.config
+C:\Users\home\Desktop\USBCrypt\USBCrypt\bin\Debug\USBCrypt.exe
+C:\Users\home\Desktop\USBCrypt\USBCrypt\bin\Debug\USBCrypt.pdb
+C:\Users\home\Desktop\USBCrypt\USBCrypt\obj\Debug\USBCrypt.Main.resources
+C:\Users\home\Desktop\USBCrypt\USBCrypt\obj\Debug\USBCrypt.Forms.Network_Warning.resources
+C:\Users\home\Desktop\USBCrypt\USBCrypt\obj\Debug\USBCrypt.Properties.Resources.resources
+C:\Users\home\Desktop\USBCrypt\USBCrypt\obj\Debug\USBCrypt.csproj.GenerateResource.Cache
+C:\Users\home\Desktop\USBCrypt\USBCrypt\obj\Debug\USBCrypt.exe
+C:\Users\home\Desktop\USBCrypt\USBCrypt\obj\Debug\USBCrypt.pdb
+C:\Users\home\Desktop\USBCrypt\USBCrypt\obj\Debug\USBCrypt.csprojResolveAssemblyReference.cache
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\bin\Debug\USBCrypt.exe.config
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\obj\Debug\USBCrypt.exe
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\obj\Debug\USBCrypt.pdb
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\bin\Debug\USBCrypt.exe
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\bin\Debug\USBCrypt.pdb
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\obj\Debug\USBCrypt.csprojResolveAssemblyReference.cache
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\obj\Debug\USBCrypt.Main.resources
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\obj\Debug\USBCrypt.Forms.Network_Warning.resources
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\obj\Debug\USBCrypt.Properties.Resources.resources
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\obj\Debug\USBCrypt.csproj.GenerateResource.Cache
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\bin\Debug\LinqBridge.dll

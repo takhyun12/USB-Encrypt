@@ -1,0 +1,17 @@
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\bin\Release\USBCrypt.exe.config
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\bin\Release\USBCrypt.exe
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\bin\Release\USBCrypt.pdb
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\bin\Release\LinqBridge.dll
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\obj\Release\USBCrypt.Main.resources
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\obj\Release\USBCrypt.Forms.Network_Warning.resources
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\obj\Release\USBCrypt.Properties.Resources.resources
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\obj\Release\USBCrypt.csproj.GenerateResource.Cache
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\obj\Release\USBCrypt.exe
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\obj\Release\USBCrypt.pdb
+C:\Users\하사정택현0188\Desktop\USBCrypt\USBCrypt\obj\Release\USBCrypt.csprojResolveAssemblyReference.cache
+C:\Users\하사정택현0188\Desktop\개발\USBCrypt\USBCrypt\bin\Release\USBCrypt.exe.config
+C:\Users\하사정택현0188\Desktop\개발\USBCrypt\USBCrypt\obj\Release\USBCrypt.exe
+C:\Users\하사정택현0188\Desktop\개발\USBCrypt\USBCrypt\obj\Release\USBCrypt.pdb
+D:\개발\USB 암호화 모듈\USBCrypt\USBCrypt\bin\Release\USBCrypt.exe.config
+D:\개발\USB 암호화 모듈\USBCrypt\USBCrypt\obj\Release\USBCrypt.exe
+D:\개발\USB 암호화 모듈\USBCrypt\USBCrypt\obj\Release\USBCrypt.pdb
